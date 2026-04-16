@@ -1,0 +1,12 @@
+﻿venv/
+__pycache__/
+*.pyc
+*.pyo
+db.sqlite3
+chroma_db/
+node_modules/
+build/
+.DS_Store
+Thumbs.db
+.env
+migrations/
